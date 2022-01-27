@@ -1,0 +1,14 @@
+table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
+    width:50%;
+  }
+  th {
+    background-color: #dddef7;
+
+  }
+
+  td {
+    background-color: #dddef7;
+    width:50%;
+  }
