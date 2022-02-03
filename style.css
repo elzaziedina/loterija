@@ -12,3 +12,7 @@ table, th, td {
     background-color: #dddef7;
     width:50%;
   }
+
+  img {
+    width: 200px;
+  }
